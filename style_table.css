@@ -1,7 +1,17 @@
-table,th,td{
-    border: 1px solid black;
-    border-collapse: collapse;
+body{
+    background-color: black;
+    font-family: `Franklin 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
 }
-table{
-    width:100%;
+.container{
+    max-width: 400px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: white;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(red, green, blue, alpha);
+}
+h1{
+    text-align: center;
+    color: black;
+    margin-bottom: 20px;
 }
